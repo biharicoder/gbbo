@@ -1,1 +1,1 @@
-from pyshort import Ann, Shuyu
+from pyshort import Anne, Shuyu
