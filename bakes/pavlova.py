@@ -1,0 +1,2 @@
+Allergy information:
+- egg whites
